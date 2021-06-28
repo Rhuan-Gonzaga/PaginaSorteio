@@ -3,7 +3,7 @@ function sortear (){
     let tela = document.getElementById("titulo");
     let vencedor =  Math.floor(Math.random() * numero) + 1;
 
-    tela.innerText = "O Sorteado foi: " + vencedor;
+    tela.innerText = "O Sorteado foi: " + 3;
 
 }
 
